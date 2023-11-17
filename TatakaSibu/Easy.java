@@ -1,8 +1,6 @@
 package TatakaSibu;
 
-import java.util.Arrays;
-
-public class Main {
+public class Easy {
     //1.Write a function that takes an array of integers and returns the sum of all the integers.
     static int SumArray(int[] a){
         int sum = 0;
