@@ -46,6 +46,12 @@ public class Hard {
         return sorted;
     }
     //3.Write a function that takes a string as input and returns the longest palindrome that can be formed from the characters in the string.
+     static String LargestPalidrome(String word ){
+    StringBuilder c = StringBuilder;
+    
+     return null;
+
+     }
 
 
     //4.Write a function that takes an array of integers and a target integer as input, and returns true if there are two integers in the array that add up to the target integer, and false otherwise.
